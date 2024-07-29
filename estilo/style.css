@@ -1,0 +1,37 @@
+@charset 'UTF-8';
+
+
+header {
+    height: 12vh;
+    background-color: black;
+    padding: 10px;
+    margin: 1px;
+    border-radius: 10px 8px;
+}
+
+header > h1 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+main {
+    padding-left: 30px;
+    border-radius: 10px 10px;
+    background-color: rgba(146, 4, 4, 0.829);
+}
+
+p {
+    text-align: justify;
+    text-shadow: 0.1px 0.1px;
+    padding-bottom: 1px;
+}
+
+h1#H1TEXTO {
+    width: 100vh;
+    padding: 2px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.89);
+    background-color: rgba(255, 255, 255, 0.116);
+    border-radius: 10px 10px;
+}
